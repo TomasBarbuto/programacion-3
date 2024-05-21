@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "devolucion_id": 1,
+        "porcentajeDescuento": 10,
+        "estado": "no usado"
+    },
+    {
+        "id": 2,
+        "devolucion_id": 2,
+        "porcentajeDescuento": 10,
+        "estado": "no usado"
+    },
+    {
+        "id": 3,
+        "devolucion_id": 3,
+        "porcentajeDescuento": 19,
+        "estado": "no usado"
+    },
+    {
+        "id": 4,
+        "devolucion_id": 4,
+        "porcentajeDescuento": 25,
+        "estado": "no usado"
+    }
+]

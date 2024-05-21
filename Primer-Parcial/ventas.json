@@ -1,0 +1,41 @@
+[
+    {
+        "id": 1,
+        "email": "newuser@gmail.com",
+        "sabor": "Vainilla",
+        "tipo": "Crema",
+        "cantidad": "1",
+        "fecha": "2024-05-18 22:39:44",
+        "numeroPedido": "PED00001",
+        "importeFinal": 30,
+        "cuponId": null,
+        "descuentoAplicado": 0,
+        "vaso": "Cucurucho",
+        "soft_deleted": true
+    },
+    {
+        "id": 2,
+        "email": "usuario@example.com",
+        "sabor": "Vainilla",
+        "tipo": "Crema",
+        "cantidad": "2",
+        "fecha": "2024-05-18 22:39:58",
+        "numeroPedido": "PED00002",
+        "importeFinal": 30,
+        "cuponId": null,
+        "descuentoAplicado": 0,
+        "soft_deleted": true
+    },
+    {
+        "id": 3,
+        "email": "usuario@example.com",
+        "sabor": "Vainilla",
+        "tipo": "Crema",
+        "cantidad": "2",
+        "fecha": "2024-05-18 23:26:32",
+        "numeroPedido": "PED00003",
+        "importeFinal": 30,
+        "cuponId": null,
+        "descuentoAplicado": 0
+    }
+]
